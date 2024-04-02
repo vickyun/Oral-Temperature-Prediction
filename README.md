@@ -30,8 +30,8 @@ Use utils.constant module to modify training parameters such as:
 * number of iterations
 * random seed
 
-
 ### Exploratory Data Analysis 
-EDA is available in Jupyter Notebook: /notebooks/Exploratory_Data_Analysis.ipynb
+EDA is available in Jupyter Notebook: `/notebooks/Exploratory_Data_Analysis.ipynb`
 
 ### Output 
+Output files are both available in `/out` and in `/mlruns`
