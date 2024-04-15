@@ -2,3 +2,5 @@ pandas
 numpy
 ucimlrepo
 mlflow
+seaborn
+matplotlib
